@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TCP_Client" targetName="TCP_Client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="716c6446-253b-47d9-94e3-8b42f14fcb9d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1U6KZj7CCS4BRRg2y6S8SSl3DJ5" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TCP_Client" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="mostafa 4950 test_image.jpg" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TCP_Client" TARGET_NAME="TCP_Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TCP_Client" RUN_TARGET_NAME="TCP_Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716c6446-253b-47d9-94e3-8b42f14fcb9d" name="Default Changelist" comment="" />
+      <created>1574671661754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574671661754</updated>
+      <workItem from="1574671663422" duration="2030000" />
+      <workItem from="1574681362711" duration="1432000" />
+      <workItem from="1574714440977" duration="2640000" />
+      <workItem from="1574787458397" duration="4180000" />
+      <workItem from="1574881215814" duration="7131000" />
+      <workItem from="1574935149280" duration="38805000" />
+      <workItem from="1575025065254" duration="16867000" />
+      <workItem from="1575225652164" duration="49000" />
+      <workItem from="1575306372012" duration="36000" />
+      <workItem from="1575306428001" duration="13458000" />
+      <workItem from="1575320743139" duration="1653000" />
+      <workItem from="1575582211658" duration="4408000" />
+      <workItem from="1575717851233" duration="306000" />
+      <workItem from="1575893048076" duration="78000" />
+      <workItem from="1576112259966" duration="2900000" />
+      <workItem from="1576138319207" duration="1992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this-&gt;ackNum" />
+        <watch expression="data_packet.seqno" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

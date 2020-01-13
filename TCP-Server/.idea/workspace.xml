@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TCP_Server" targetName="TCP_Server" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54d536bd-4d2e-4f43-aa61-a06bb234b187" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1U4xmJyx4KHZIve0PNjaPkwAzCW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ns3.1/source/ns-3.29/examples/tutorial" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TCP_Server" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="4950 65465 0.05" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TCP_Server" TARGET_NAME="TCP_Server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TCP_Server" RUN_TARGET_NAME="TCP_Server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d536bd-4d2e-4f43-aa61-a06bb234b187" name="Default Changelist" comment="" />
+      <created>1574629826295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574629826295</updated>
+      <workItem from="1574629829756" duration="1350000" />
+      <workItem from="1574671225267" duration="2324000" />
+      <workItem from="1574682338376" duration="754000" />
+      <workItem from="1574718801847" duration="1595000" />
+      <workItem from="1574791828449" duration="14189000" />
+      <workItem from="1574884472763" duration="5404000" />
+      <workItem from="1574936046150" duration="37619000" />
+      <workItem from="1575032676460" duration="17615000" />
+      <workItem from="1575223306697" duration="1459000" />
+      <workItem from="1575305448930" duration="14632000" />
+      <workItem from="1575320855532" duration="1543000" />
+      <workItem from="1575561999685" duration="721000" />
+      <workItem from="1575582203195" duration="4411000" />
+      <workItem from="1575893065498" duration="66000" />
+      <workItem from="1576111813534" duration="3367000" />
+      <workItem from="1576138456305" duration="1920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CongestionControlFSM.cpp</url>
+          <line>41</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CongestionControlFSM.cpp</url>
+          <line>63</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/FSM.cpp</url>
+          <line>66</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/UDP_Socket.h</url>
+          <line>23</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="p-&gt;ai_addr-&gt;sa_data" />
+        <watch expression="server-&gt;fsm-&gt;clientAddrInfo-&gt;sa_data" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
